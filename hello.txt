@@ -1,4 +1,7 @@
 hello git!10101010
-hello git! 11111
+<<<<<<< HEAD
 hello git!
 
+=======
+hello git! 222222
+>>>>>>> hot-fix
